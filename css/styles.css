@@ -135,6 +135,7 @@ body {
 .title {
   color: var(--title-text-color);
   font-weight: 700;
+  font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
 }
@@ -144,7 +145,7 @@ body {
   background-color: var(--secondary-bg-color);
 }
 
-.container {
+.item {
   background-color: var(--primary-white-color);
 }
 
